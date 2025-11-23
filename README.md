@@ -6,6 +6,7 @@ Antigravity คือ IDE ที่ให้คุณทำงานร่วม
 
 คู่แข่งคือ Kiro จาก AWS ทั้งคู่ไม่ใช่แค่ "ตัวช่วยเติมโค้ด" (Code Autocomplete) เหมือนสมัยก่อน แต่เป็น "Agentic IDE" หรือโปรแกรมเขียนโค้ดที่เน้นการใช้ AI Agent (ผู้ช่วยอัจฉริยะ) ให้ทำงานแทนเราแบบอัตโนมัติ และ ทั้งคู่ถูกสร้างขึ้นโดยมีพื้นฐานมาจาก Visual Studio Code (VSCode)
 
+บทความนี้เราไปรู้จัก Google Antigravity ...
 
 <img width="1148" height="523" alt="image" src="https://github.com/user-attachments/assets/77196551-5bb5-48a5-96b1-e0a7209eb12a" />
 
