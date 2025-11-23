@@ -140,8 +140,10 @@ Agent Manager จัดการให้ทั้งหมด:
 
 มันคือระดับที่เหนือกว่า Copilot → ChatGPT → Cursor
 
-ณ ตอนนี้ เปิดให้ใช้งานฟรี สำหรับบุคคล 
+ณ ตอนนี้ เปิดให้ใช้งานฟรี สำหรับบุคคล
+
 https://antigravity.google/pricing
+
 มี limits แต่เป็น Generous rate limits... ให้โควต้าเยอะมากจนใช้งานจริงแทบไม่เจอการจำกัด
 
 
