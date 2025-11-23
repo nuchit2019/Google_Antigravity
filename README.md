@@ -1,6 +1,6 @@
 # Google Antigravity
 
-Google Antigravity [antigravity.google](https://antigravity.google/) คือแพลตฟอร์มสำหรับการพัฒนาซอฟต์แวร์ (IDE) ตัวใหม่จาก Google ที่เปิดตัวเพื่อรองรับยุคของ "AI Agent"
+[Google Antigravity](https://antigravity.google/) คือแพลตฟอร์มสำหรับการพัฒนาซอฟต์แวร์ (IDE) ตัวใหม่จาก Google ที่เปิดตัวเพื่อรองรับยุคของ "AI Agent"
 
 Antigravity คือ IDE ที่ให้คุณทำงานร่วมกับ AI ในฐานะ "เพื่อนร่วมทีม" (Agent) ไม่ใช่แค่ "ผู้ช่วย" (Assistant) แบบเดิมๆ ครับ
 
