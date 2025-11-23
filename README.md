@@ -9,13 +9,14 @@ Antigravity คือ IDE ที่ให้คุณทำงานร่วม
 
 ด้านล่างอธิบายแบบเข้าใจง่ายที่สุด 👇
 
----
+<img width="1148" height="523" alt="image" src="https://github.com/user-attachments/assets/77196551-5bb5-48a5-96b1-e0a7209eb12a" />
+
 
 # 🧩 **1) Core Components (3 ส่วนหลักของ Antigravity)**
 
 ภาพด้านบนมี 3 กล่องสำคัญ:
 
----
+#
 
 ## 🟦 **(1) Editor — พื้นที่เขียนโค้ด**
 
@@ -25,7 +26,7 @@ Antigravity คือ IDE ที่ให้คุณทำงานร่วม
 * AI สามารถเขียน, refactor, optimize ให้แบบอัตโนมัติ
 * Developer มีหน้าที่ “Review & Approve”
 
----
+#
 
 ## 🟥 **(2) Agent Manager (Inbox) — ตัวประสานงาน (หัวใจของระบบ)**
 
@@ -55,7 +56,7 @@ Antigravity คือ IDE ที่ให้คุณทำงานร่วม
 
 มันคือ **Project Manager + Tech Lead + AI Developer** ในตัวเดียว
 
----
+#
 
 ## 🟩 **(3) Browser — Agent ค้นคว้าข้อมูล**
 
@@ -69,7 +70,7 @@ Antigravity คือ IDE ที่ให้คุณทำงานร่วม
 
 Antigravity จะใช้ Browser Agent เหมือนให้ "AI นั่ง Google ให้เรา"
 
----
+#
 
 # 🛠️ **2) Core Workflow (ขั้นตอนทำงานที่ระบบทำแทน Dev)**
 
@@ -85,7 +86,7 @@ Antigravity จะใช้ Browser Agent เหมือนให้ "AI นั
 
 จากนั้น AI ทำงานแทบทั้งหมด
 
----
+#
 
 ### 🟥 80% — Coding (AI ทำ)
 
@@ -100,7 +101,7 @@ Agent Manager จัดการให้ทั้งหมด:
 * optimize performance
 * run และ debug
 
----
+#
 
 ### 🟩 10% — Review & Feedback
 
@@ -111,9 +112,9 @@ Agent Manager จัดการให้ทั้งหมด:
 * ขอแก้บางจุด
 * กด Approve
 
----
+#
 
-# 🔥 สรุปสั้นๆ เข้าใจภายใน 10 วินาที
+# 🔥 สรุป
 
 | ส่วน              | ทำอะไร                                              |
 | ----------------- | --------------------------------------------------- |
@@ -123,7 +124,7 @@ Agent Manager จัดการให้ทั้งหมด:
 
 **Workflow = 10% Prompt → 80% AI Coding → 10% Human Review**
 
----
+#
 
 # ⭐ ทำไม Antigravity สำคัญมาก?
 
@@ -137,14 +138,4 @@ Agent Manager จัดการให้ทั้งหมด:
 ✔ อ่านเว็บจริงเพื่อหาข้อมูล
 
 มันคือระดับที่เหนือกว่า Copilot → ChatGPT → Cursor
-
----
-
-ถ้าต้องการ ผมสามารถทำให้:
-
-✅ เปรียบเทียบ Antigravity vs Cursor
-✅ อธิบายแบบ Developer ใช้งานจริง
-✅ สรุปเป็น slide ให้สอนได้
-✅ สร้างตัวอย่าง Prompt ขนาดใหญ่พร้อมใช้จริง
-
-ต้องการแบบไหนครับ?
+ 
