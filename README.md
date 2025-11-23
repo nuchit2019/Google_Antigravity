@@ -125,7 +125,10 @@ Agent Manager จัดการให้ทั้งหมด:
 
 เพราะนี่คือครั้งแรกที่:
 
+
 ### ✔ AI ทำงานแบบ “ทีม Dev”
+
+<img width="1625" height="844" alt="image" src="https://github.com/user-attachments/assets/7a2d4da6-4a00-451b-98ee-a5119cc00904" />
 
 ✔ แบ่งงานเป็น Agents หลายตัว
 ✔ มี PM (Agent Manager) ช่วยคิดและวางแผน
@@ -133,4 +136,6 @@ Agent Manager จัดการให้ทั้งหมด:
 ✔ อ่านเว็บจริงเพื่อหาข้อมูล
 
 มันคือระดับที่เหนือกว่า Copilot → ChatGPT → Cursor
+
+
  
